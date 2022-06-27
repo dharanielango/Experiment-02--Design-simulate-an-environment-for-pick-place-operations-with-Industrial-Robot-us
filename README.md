@@ -97,9 +97,9 @@ raise Exception("""Your license does not allow generating programs with more tha
 ```
 
 ## SIMULATION
-![out](WhatsApp%20Image%202022-06-25%20at%205.19.43%20PM.jpeg)
-![out](./WhatsApp%20Image%202022-06-25%20at%205.19.58%20PM.jpeg)
- ![out](./WhatsApp%20Image%202022-06-25%20at%205.20.22%20PM.jpeg)
+![out](./1.png)
+![out](./2.png)
+ ![out](./3.png)
 
 ## RESULT
 An environment for pick & place operations with Industrial Robot has been created and the simulation has been completed successfully using Robo DK software.
